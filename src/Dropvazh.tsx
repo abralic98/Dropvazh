@@ -4,5 +4,5 @@ interface DropdownProps {
   kita?: string;
 }
 export const Dropvazh = (props: DropdownProps) => {
-  return <button>{props.kita}</button>;
+  return <button>{props.kita} k</button>;
 };
